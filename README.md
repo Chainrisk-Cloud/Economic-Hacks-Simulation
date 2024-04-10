@@ -2,7 +2,11 @@
 This repository contains simulations of economic exploits in Decentralized Finance (DeFi) using Agent-Based Modeling (ABS). We'll be adding new simulations of various DeFi exploits using the ABS approach over time.
 
 ## About Chainrisk:
-Chainrisk helps DeFi applications manage economic risk through Chainrisk Cloud®, our automated economic risk management platform. We specialize in simulating complex economic exploits to help DeFi projects identify and mitigate potential vulnerabilities.
+Chainrisk specializes in economic security, offering a unified simulation platform designed for teams to efficiently test protocols, particularly in challenging market conditions. Our technology is anchored by a cloud-based simulation engine driven by agents and scenarios, enabling users to create tailored market situations for comprehensive risk assessment.
+
+Our team comprises experts with diverse backgrounds in Crypto, Security, Data Science, Economics, and Statistics, bringing valuable experience from institutions such as Ethereum Foundation, NASA, JP Morgan, Deutsche Bank, Polygon, Nethermind, and Eigen Layer.
+
+The Chainrisk Cloud simulation platform mirrors the mainnet environment as closely as possible. Each simulation runs forks from a specified block height, ensuring up-to-date account balances and the latest smart contracts and code deployed across DeFi. This holistic approach is crucial for understanding how external factors such as cascading liquidations, oracle failure, gas fees, and liquidity crises can impact a protocol in various scenarios.
 
 More about Chainrisk here: [chainrisk.cloud](https://www.chainrisk.cloud/)
 
