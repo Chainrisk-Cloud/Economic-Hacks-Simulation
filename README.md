@@ -18,7 +18,7 @@ Agent-Based Simulation (ABS) is a bottom-up simulation technique where we analyz
 By simulating interactions among these agents, ABS unveils emergent phenomena, such as unintended consequences, which may not be evident through traditional analytical methods.
 The components of ABS Model are:
 - Agents
-- Scenario
+- Scenarios
 - Observers
 - Assertions
 - Contracts 
