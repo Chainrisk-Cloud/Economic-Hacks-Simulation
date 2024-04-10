@@ -7,7 +7,7 @@ Chainrisk helps DeFi applications manage economic risk through Chainrisk Cloud®
 More about Chainrisk here: [chainrisk.cloud](https://www.chainrisk.cloud/)
 
 ## Agent-Based Modeling (ABM)
-ABM represents individual actors, or agents, with specific economic motivations and decision-making abilities, mirroring real-world participants in DeFi. By simulating interactions among these agents, ABM unveils emergent phenomena, such as unintended consequences, which may not be evident through traditional analytical methods.
+ABM represents individual actors, or agents, with specific economic motivations and decision-making abilities, mirroring real-world participants in DeFi. By simulating interactions among these agents, ABM unveils emergent phenomena, such as unintended consequences, which may not be evident through traditional analytical methods. 
 
 ## Agent-Based Simulations
 Agent-Based Simulation (ABS) is a bottom-up simulation technique where we analyze a system by its individual agents that interact with each other. In Chainrisk's ABS, individual actors, or agents, are represented with specific economic motivations and decision-making abilities, mirroring real-world participants in DeFi. </br>
@@ -17,7 +17,7 @@ The components of ABS Model are:
 - Scenario
 - Observers
 - Assertions
-
+- Contracts 
 
 ## How Chainrisk's ABS can help DeFi Protocols?
 ABS provides a powerful tool for DeFi developers to proactively identify and mitigate economic exploits. Below are a few features of ABS:
